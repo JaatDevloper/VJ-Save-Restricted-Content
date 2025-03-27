@@ -14,8 +14,8 @@ ADMINS = int(os.environ.get("ADMINS", "7656415064"))
 
 # Your Mongodb Database Url
 # Warning - Give Db uri in deploy server environment variable, don't give in repo.
-DB_URI = os.environ.get("DB_URI", "mongodb+srv://InSaneOp:82QMu3KRRZNfinJr@cluster0.8zbpi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # Warning - Give Db uri in deploy server environment variable, don't give in repo.
-DB_NAME = os.environ.get("DB_NAME", "InsaneOp")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://JaatDevloper:1enqQPDT06pSfUhX@cluster0.cavye7f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # Warning - Give Db uri in deploy server environment variable, don't give in repo.
+DB_NAME = os.environ.get("DB_NAME", "JaatDevloper")
 
 # If You Want Error Message In Your Personal Message Then Turn It True Else If You Don't Want Then Flase
 ERROR_MESSAGE = bool(os.environ.get('ERROR_MESSAGE', True))
