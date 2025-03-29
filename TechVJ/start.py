@@ -63,7 +63,7 @@ async def send_start(client: Client, message: Message):
 
     # Define the buttons for inline keyboard
     buttons = [[
-        InlineKeyboardButton("❣️ Developer", url = "https://t.me/JaatMystic")
+        InlineKeyboardButton("❣️ Developer", url = "https://t.me/JaatCoderX")
     ],[
         InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/SavedRestrictionBot'),
         InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/SavedRestrictionBot')
